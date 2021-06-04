@@ -1,0 +1,27 @@
+body{
+background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+}
+
+#start{
+font-family: 'Dancing Script', cursive;
+font-size:22px ;
+}
+
+#status{
+ background-color:cornflowerblue;
+}
+
+
+canvas{
+ border: 2px solid white;
+ border-radius:20px;
+ margin-top: 130px;
+ box-shadow: 5px 5px 5px white;
+
+}
